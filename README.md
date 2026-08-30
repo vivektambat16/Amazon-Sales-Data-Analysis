@@ -150,7 +150,7 @@ Some important insights obtained from the analysis include:
 ---
 
 ## 📁 Project Structure
-
+```text
 Amazon-Sales-Data-Analysis/
 │
 ├── Amazon_Sale_Analysis.ipynb
